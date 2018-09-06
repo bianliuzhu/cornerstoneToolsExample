@@ -1,0 +1,11 @@
+## Directorties
+node_modules
+coverage/
+dist/
+docs/_book/
+
+## Files
+docs/api.md
+
+## File Types
+.idea
